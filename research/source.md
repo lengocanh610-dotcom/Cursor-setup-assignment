@@ -1,7 +1,9 @@
 1. 
 
 Name: Alex Berman
+
 Platform: YouTube
+
 Profile URL: https://www.youtube.com/@AlexBerman 
 Expertise: Cold email strategy, B2B lead generation 
 Credibility: 300K+ YouTube subscribers, founder of Demand & Success.ai, generated $50M+ for clients 
